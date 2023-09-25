@@ -1,0 +1,37 @@
+[33mcommit 785926dace07fa464df6169e6fb56c40a433fa2b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 8b981fd 1ba8a99
+Author: Nama Anda <email@example.com>
+Date:   Tue Sep 26 01:50:43 2023 +0700
+
+    Resolve conflict in README.md
+
+[33mcommit 8b981fd6c01871704b1cb4a44260c1dcb9365563[m
+Merge: 67fe915 1ffc05f
+Author: Nama Anda <email@example.com>
+Date:   Tue Sep 26 01:43:43 2023 +0700
+
+    Pesan commit Anda di sini
+
+[33mcommit 67fe91554fe4da38d0df030b5aad304716d97ded[m
+Author: Nama Anda <email@example.com>
+Date:   Tue Sep 26 01:34:14 2023 +0700
+
+    Gagal lihat hasil
+
+[33mcommit 1ba8a99df0e06090af80f7750a68375aef9fda44[m
+Author: Aida Fitrania <91545802+aidafitraniaa@users.noreply.github.com>
+Date:   Tue Sep 26 01:31:27 2023 +0700
+
+    Initial commit
+
+[33mcommit 06ab50b9d26a859f02303e2389e022b78eda5ad2[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: aidafitraniaa <fitraniap78@gmail.com>
+Date:   Tue Sep 26 01:18:21 2023 +0700
+
+    Belum bisa lihat tampilan
+
+[33mcommit 1ffc05f9b412ef08ecd4c38275f432f1f991e88b[m
+Author: Aida Fitrania <91545802+aidafitraniaa@users.noreply.github.com>
+Date:   Tue Sep 26 01:01:31 2023 +0700
+
+    Initial commit
