@@ -58,12 +58,12 @@
             <input type="password" id="password" name="password" required>
             <br><br>
             
-            <label for="gambar">Gambar:</label>
+            <label for="gambar">Foto Diri:</label>
             <input type="file" id="gambar" name="gambar" accept=".jpg, .jpeg, .png" required>
             <br><br>
             
-            <label for="nilai">Nilai:</label>
-            <input type="number" id="nilai" name="nilai" step="0.01" min="2.50" max="99.99" required>
+            <label for="gaji">Gaji:</label>
+            <input type="number" id="gaji" name="gaji" step="0.01" min="2.50" max="99.99" required>
             <br><br>
 
             <button type="submit">Submit</button>
