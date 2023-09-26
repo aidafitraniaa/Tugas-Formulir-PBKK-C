@@ -27,12 +27,12 @@
     @endif
 
     @if ($gambarName)
-    <p>Gambar:</p>
+    <p>Foto Diri:</p>
     <img src="{{ asset('uploads/'.$gambarName) }}" alt="Gambar">
     @endif
 
     @if ($nilai)
-    <p>Nilai: {{ $nilai }}</p>
+    <p>Gaji: {{ $gaji }}</p>
     @endif
 </body>
 </html>
