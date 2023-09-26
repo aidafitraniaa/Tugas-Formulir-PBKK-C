@@ -19,7 +19,7 @@ class FormulirController extends Controller
             'email' => 'required|email:rfc',
             'password' => 'required|min:8', // Minimal 8 karakter
             'gambar' => 'required|image|mimes:jpg,png,jpeg|max:2048', // Maksimal 2 MB
-            'nilai' => 'required|numeric|between:2.50,99.99',
+            'gaji' => 'required|numeric|between:2.50,99.99',
         ]);
 
         // Simpan data formulir ke database atau tempat penyimpanan yang Anda butuhkan
