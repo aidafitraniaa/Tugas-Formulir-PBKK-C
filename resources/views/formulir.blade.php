@@ -35,7 +35,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Formulir</h1>
+        <h1>Formulir Data Karyawan</h1>
 
         <!-- Menampilkan pesan sukses jika ada -->
         @if(session('success'))
