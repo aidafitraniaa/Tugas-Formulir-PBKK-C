@@ -44,7 +44,7 @@
             </div>
         @endif
 
-        <form action="{{ route('submit-form') }}" method="POST">
+        <form action="{{ route('submit-form') }}" method="POST" enctype="multipart/form-data">
             @csrf
             <label for="nama">Nama:</label>
             <input type="text" id="nama" name="nama" required>
